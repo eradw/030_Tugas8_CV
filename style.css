@@ -1,0 +1,51 @@
+.profile-photo {
+    width: 130px;
+    height: 130px;
+    border-radius: 200px;
+    border: 3px solid rgb(23, 155, 255);
+    float: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    background-image: url(profile.jpg);
+    background-position: center;
+    background-size: 175px;
+}
+
+
+.sekolah {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: -70px;
+    margin-right: 100px;
+    margin-left: -180px;
+}
+
+.kerja {
+    display: flex;
+    margin-top: 50px;
+    /* margin-bottom: -40px; */
+    margin-right: 100px;
+    margin-left: -350px;
+}
+
+.keahlian {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: -90px;
+    margin-right: 100px;
+    margin-left: -140px;
+}
+
+
+.workshop {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: -100px;
+    margin-right: 30px;
+    margin-left: -180px;
+}
+
+#anu {
+    margin-left: -40px;
+}
+
